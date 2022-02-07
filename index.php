@@ -5,7 +5,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Visitors counter</title>
-        <meta name="keywords" content="Visitors counter">
+        <meta name="keywords" content="Visitors counter | http://aaris.ru/">
 </head>
 <body link="#ffffff" vlink="#ffffff" alink="#000000" hover="#ffffff" bgcolor="#000000">
 
